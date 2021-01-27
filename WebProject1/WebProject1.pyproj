@@ -32,8 +32,7 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Chinook_Sqlite.sqlite" />
-    <Content Include="untitled.ui" />
+    <Content Include="MyDB.db" />
   </ItemGroup>
   <ItemGroup>
     <Interpreter Include="env\">
